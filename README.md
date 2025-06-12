@@ -8,8 +8,11 @@ Files used: flights.csv
 
 🧠 Objectives
 Clean and preprocess real-world flight data.
+
 Analyze key features and trends influencing flight delays.
+
 Train and evaluate classification models for predicting delayed flights.
+
 Visualize insights using data visualization libraries.
 
 🛠️ Tech Stack
