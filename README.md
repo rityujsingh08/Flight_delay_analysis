@@ -1,41 +1,56 @@
-# Flight Delays Prediction with Machine Learning
+# ✈️ Flight Delays Prediction Using Machine Learning
 
-🔍Overview
-This project uses machine learning techniques to predict flight delays based on historical flight data. By leveraging Python and popular data science libraries, the goal is to build a predictive model that identifies key patterns contributing to delays in the aviation industry.
+## 📌 Overview
 
-📂 Dataset
-Files used: flights.csv
+This project focuses on predicting flight delays using historical data sourced from U.S. domestic flights. Leveraging Python and a wide range of data science libraries, the notebook demonstrates a complete pipeline from data cleaning to model deployment-ready predictions. It is designed to showcase proficiency in real-world data processing, analysis, and machine learning.
 
-🧠 Objectives
-Clean and preprocess real-world flight data.
+---
 
-Analyze key features and trends influencing flight delays.
+## 🧠 Project Objectives
 
-Train and evaluate classification models for predicting delayed flights.
+- Preprocess large-scale flight, airport, and airline datasets.
+- Perform Exploratory Data Analysis (EDA) to identify trends and correlations.
+- Engineer relevant features to enhance model performance.
+- Train and evaluate various classification models to predict delays.
+- Interpret model results and visualize feature importance.
 
-Visualize insights using data visualization libraries.
+---
 
-🛠️ Tech Stack
-Python 3.x
-Pandas – Data manipulation
-NumPy – Numerical operations
-Matplotlib & Seaborn – Data visualization
-Scikit-learn – ML algorithms & preprocessing
-XGBoost – Gradient boosting model for improved accuracy
+## 📂 Dataset Information
+- **Files Used**:
+  - `flights.csv`
+  - `airports.csv`
+  - `airlines.csv`
 
-📊 Key Skills Demonstrated
-📌 Data Cleaning: Handling missing values, feature selection based on thresholds.
-📌 EDA (Exploratory Data Analysis): Using correlation heatmaps, bar plots, and histograms.
-📌 Feature Engineering: Creating meaningful features such as time of day and day of the week.
-📌 Model Building: Training models like Logistic Regression, Random Forest, and XGBoost.
-📌 Evaluation Metrics: Accuracy, precision, recall, confusion matrix.
+---
 
-📈 Sample Results
-Best Model: XGBoost Classifier
-Accuracy: ~85% on test data
-Confusion Matrix: Highlights the trade-off between false positives and false negatives
+## 🛠️ Tools & Technologies
 
-📷 Visual Insights
-Heatmaps to understand correlations
-Delay distributions by airline and airport
-Feature importance plots from the ML model
+| Category        | Libraries & Tools                                      |
+|----------------|--------------------------------------------------------|
+| Programming     | Python 3                                               |
+| Data Handling   | Pandas, NumPy                                          |
+| Visualization   | Matplotlib, Seaborn                                    |
+| Machine Learning| Scikit-learn, XGBoost                                  |
+| Environment     | Jupyter Notebook                                       |
+
+---
+
+## 📊 Key Skills Demonstrated
+
+- ✅ Data cleaning and preprocessing (missing value handling, filtering)
+- ✅ Exploratory Data Analysis (EDA) with visual storytelling
+- ✅ Correlation analysis and threshold-based feature selection
+- ✅ Feature engineering (categorical encoding, time-based features)
+- ✅ Model training with Logistic Regression, Random Forest, XGBoost
+- ✅ Evaluation using accuracy, confusion matrix, precision/recall
+- ✅ Hyperparameter tuning and model interpretation
+
+---
+
+## 🚀 How to Run the Project
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/flight-delays-prediction.git
+   cd flight-delays-prediction
