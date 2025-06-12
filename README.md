@@ -47,10 +47,3 @@ This project focuses on predicting flight delays using historical data sourced f
 - ✅ Hyperparameter tuning and model interpretation
 
 ---
-
-## 🚀 How to Run the Project
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/flight-delays-prediction.git
-   cd flight-delays-prediction
