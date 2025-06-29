@@ -30,7 +30,9 @@ Flight delays can cause significant inconvenience and financial impact. This ana
 
 ## 📁 Project Structure
 ├── flight-delays-analysis.ipynb # Main analysis notebook
+
 ├── README.md # Project documentation (this file)
+
 └── data/ # (Optional) Directory to store datasets
 
 ---
