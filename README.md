@@ -1,4 +1,4 @@
-# ✈️ Flight Delays Prediction Using Machine Learning
+# ✈️ Flight Delays Analysis Using Machine Learning
 
 ## 📌 Overview
 
