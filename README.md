@@ -34,7 +34,7 @@ Flight delays can cause significant inconvenience and financial impact. This ana
 ├── README.md # Project documentation (this file)
 
 └── data/ # (Optional) Directory to store datasets
--For Dataset refer to Kaggle:- https://www.kaggle.com/datasets/matinsajadi/flights
+- For Dataset refer to Kaggle:- https://www.kaggle.com/datasets/matinsajadi/flights
 
 ---
 
